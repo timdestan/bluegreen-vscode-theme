@@ -1,0 +1,22 @@
+{
+  "name": "bluegreen",
+  "displayName": "Bluegreen",
+  "description": "A dark teal VSCode theme ported from the Emacs bluegreen theme",
+  "version": "0.0.1",
+  "publisher": "timdestan",
+  "engines": {
+    "vscode": "^1.0.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Bluegreen",
+        "uiTheme": "vs-dark",
+        "path": "./themes/bluegreen-color-theme.json"
+      }
+    ]
+  }
+}
