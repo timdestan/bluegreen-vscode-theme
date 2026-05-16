@@ -171,7 +171,7 @@
     "minimapSlider.hoverBackground": "#2a554060",
     "minimapSlider.activeBackground": "#2a554080",
     "breadcrumb.background": "#021a1e",
-    "breadcrumb.foreground": "#45475a",
+    "breadcrumb.foreground": "#7a8e8c",
     "breadcrumb.activeSelectionForeground": "#A8A88D",
     "breadcrumb.focusForeground": "#B3C4C5",
     "breadcrumbPicker.background": "#021a1e",
